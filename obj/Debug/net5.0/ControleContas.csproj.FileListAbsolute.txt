@@ -1,0 +1,16 @@
+C:\Users\alexe\Documents\Criacao\Cursos\MRV-.NET-Developer\21-Projeto_2_transferencias_bancarias\ControleContas\obj\Debug\net5.0\ControleContas.csprojAssemblyReference.cache
+C:\Users\alexe\Documents\Criacao\Cursos\MRV-.NET-Developer\21-Projeto_2_transferencias_bancarias\ControleContas\obj\Debug\net5.0\ControleContas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexe\Documents\Criacao\Cursos\MRV-.NET-Developer\21-Projeto_2_transferencias_bancarias\ControleContas\obj\Debug\net5.0\ControleContas.AssemblyInfoInputs.cache
+C:\Users\alexe\Documents\Criacao\Cursos\MRV-.NET-Developer\21-Projeto_2_transferencias_bancarias\ControleContas\obj\Debug\net5.0\ControleContas.AssemblyInfo.cs
+C:\Users\alexe\Documents\Criacao\Cursos\MRV-.NET-Developer\21-Projeto_2_transferencias_bancarias\ControleContas\obj\Debug\net5.0\ControleContas.csproj.CoreCompileInputs.cache
+C:\Users\alexe\Documents\Criacao\Cursos\MRV-.NET-Developer\21-Projeto_2_transferencias_bancarias\ControleContas\bin\Debug\net5.0\ControleContas.exe
+C:\Users\alexe\Documents\Criacao\Cursos\MRV-.NET-Developer\21-Projeto_2_transferencias_bancarias\ControleContas\bin\Debug\net5.0\ControleContas.deps.json
+C:\Users\alexe\Documents\Criacao\Cursos\MRV-.NET-Developer\21-Projeto_2_transferencias_bancarias\ControleContas\bin\Debug\net5.0\ControleContas.runtimeconfig.json
+C:\Users\alexe\Documents\Criacao\Cursos\MRV-.NET-Developer\21-Projeto_2_transferencias_bancarias\ControleContas\bin\Debug\net5.0\ControleContas.runtimeconfig.dev.json
+C:\Users\alexe\Documents\Criacao\Cursos\MRV-.NET-Developer\21-Projeto_2_transferencias_bancarias\ControleContas\bin\Debug\net5.0\ControleContas.dll
+C:\Users\alexe\Documents\Criacao\Cursos\MRV-.NET-Developer\21-Projeto_2_transferencias_bancarias\ControleContas\bin\Debug\net5.0\ref\ControleContas.dll
+C:\Users\alexe\Documents\Criacao\Cursos\MRV-.NET-Developer\21-Projeto_2_transferencias_bancarias\ControleContas\bin\Debug\net5.0\ControleContas.pdb
+C:\Users\alexe\Documents\Criacao\Cursos\MRV-.NET-Developer\21-Projeto_2_transferencias_bancarias\ControleContas\obj\Debug\net5.0\ControleContas.dll
+C:\Users\alexe\Documents\Criacao\Cursos\MRV-.NET-Developer\21-Projeto_2_transferencias_bancarias\ControleContas\obj\Debug\net5.0\ref\ControleContas.dll
+C:\Users\alexe\Documents\Criacao\Cursos\MRV-.NET-Developer\21-Projeto_2_transferencias_bancarias\ControleContas\obj\Debug\net5.0\ControleContas.pdb
+C:\Users\alexe\Documents\Criacao\Cursos\MRV-.NET-Developer\21-Projeto_2_transferencias_bancarias\ControleContas\obj\Debug\net5.0\ControleContas.genruntimeconfig.cache
